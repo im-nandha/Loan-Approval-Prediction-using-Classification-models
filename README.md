@@ -12,6 +12,7 @@ The dataset includes details such as applicant income, credit history, loan amou
 
 # Tools and Technologies
 programming language : Python
+
 Libraries Used:
 1. Scikit-learn (for model implementation)
 2. Pandas and NumPy (for data manipulation)
