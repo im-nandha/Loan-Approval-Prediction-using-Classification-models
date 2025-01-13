@@ -11,8 +11,8 @@ The models are evaluated to determine their accuracy, precision, recall, and oth
 The dataset includes details such as applicant income, credit history, loan amount, property area, and more. Each record has a target variable indicating loan approval status (Approved or Not Approved). The dataset has been preprocessed to handle missing values and encode categorical variables.
 
 # Tools and Technologies
-# programming language : Python
-# Libraries Used:
+programming language : Python
+Libraries Used:
 1. Scikit-learn (for model implementation)
 2. Pandas and NumPy (for data manipulation)
 3. Matplotlib and Seaborn (for data visualization)
